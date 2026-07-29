@@ -1,0 +1,27 @@
+
+Character ps.png
+size: 1743,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 702, 36
+  size: 539, 814
+  orig: 539, 814
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1243, 2
+  size: 498, 848
+  orig: 500, 850
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: true
+  xy: 2, 72
+  size: 778, 698
+  orig: 780, 700
+  offset: 1, 1
+  index: -1
